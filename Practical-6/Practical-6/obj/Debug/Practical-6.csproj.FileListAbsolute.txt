@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Practical-6\Practical-6\bin\Debug\Practical-6.exe.config
+C:\Users\Lenovo\source\repos\Practical-6\Practical-6\bin\Debug\Practical-6.exe
+C:\Users\Lenovo\source\repos\Practical-6\Practical-6\bin\Debug\Practical-6.pdb
+C:\Users\Lenovo\source\repos\Practical-6\Practical-6\obj\Debug\Practical-6.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Practical-6\Practical-6\obj\Debug\Practical_6.Form1.resources
+C:\Users\Lenovo\source\repos\Practical-6\Practical-6\obj\Debug\Practical_6.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Practical-6\Practical-6\obj\Debug\Practical-6.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Practical-6\Practical-6\obj\Debug\Practical-6.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Practical-6\Practical-6\obj\Debug\Practical-6.exe
+C:\Users\Lenovo\source\repos\Practical-6\Practical-6\obj\Debug\Practical-6.pdb
